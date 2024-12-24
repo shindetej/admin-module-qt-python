@@ -1,0 +1,9 @@
+{
+    "DBConfig": {
+        "Host": "localhost",
+        "_User": "postgres",
+        "_Password": "postgres",
+        "DBName": "TMS_db",
+        "Port": "5432"
+    }
+}
